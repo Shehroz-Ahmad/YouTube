@@ -1,0 +1,72 @@
+(write):This is the mostly asked question these days.
+(drawing): Mostly people are confused that Is there any relation between Digital Marketing and Data Science?
+Should you necessarily learn Digital Marketing to become a Data Scientist?
+Can being expert in Digital Marketing domain ease your way to become a data scientist in the future?
+
+(voice):So, don't worry i am going to answer all your confussions related to this topic.
+first we need to talk about what is digital marketing and data science?
+
+ (write):What is digital Marketing?
+
+(write):Digital marketing is  component of marketing that utilizes internet and online based
+ digital technologies to promote products and services.
+
+(drawing):Suppose you have developed a product and you want to sell it Now the first question arises in your mind.how can i promote my product digitally
+
+(drawing):In the past people use different method for advertising like showing an Ad in newspaper or displaying sign boards Now technology changes and 
+the way of marketing also developed.Now people use Internet for marketing their product 
+(drawing):Their are multiple ways to promote your product but the most easiest one is social media marketing..
+(voice): If you want to know what is social media marketing then write in coment section.I will discuss it 
+in next video 
+ 
+(voice):As i described about data science in my previous video if you don't know about it is then do watch that video before continue this video
+(write): so lets get started..
+(voice):So, there is no direct link between these two fields. However, once we acquire knowledge in Digital marketing and make efforts to expand our skill sets,
+ it may become a little easier to walk on the path of Data Science
+
+(write):Let me explain you with examples..
+(write):First Step: Time, Patience And Experimentations 
+
+
+(drawing):Time, patience and experimentation is the key to successful digital marketing campaigns. Any Digital Marketer would tell you that creating best content for your 
+business or ranking on the top of search engine results are their top priority.
+(write):How this is related to data science?
+(drawing):And as you can guess, all these attributes are required to become a good Data Scientist. Processing Data. Experimenting with algorithms to create a model.
+ Deploying models and testing them repeatedly.
+(write):So Time is the key to both marketing and data science.
+
+(write):2nd step: Market And Consumers Knowledge
+
+(drawing):Once being proficient in Digital Marketing, we tend to understand how a market works in general.
+ Also,when we deal with keywords, we tend to have fairly good knowledge about customer thinking.
+(write): How this is related to data science?
+
+(drawing):Since you would need to work for businesses, you become good at understanding business requirements and goals.
+ And doing the work becomes a little easy when you know how to do marketing product for your company. 
+
+(write):third step: Exposure To Programming
+(drawing): As a Digital Marketer, you may become familiar with Languages like HTML, CSS, and JavaScript.
+ Though it’s not mandatory to have a knowledge of these web-based languages. Everyone should at least get a basic knowledge of HTML and can then decide
+ if they want to learn more languages or not.
+(write):How can this related to data science?
+
+(voice):Once you develop a little understanding of coding and a solid foundation in any programming language, 
+it would become easier to learn languages like R and Python, which are a must for a Data Scientist.
+
+(write):fourth step: Understanding with numbers and data
+(drawing):Digital Marketing is all about the end results. The numbers speak everything about your campaigns. 
+And a marketer must have the skills to analyze final results and numbers and draw business conclusions.So, Data And Analytics are Part of the digital marketing
+
+(write):How this is related to data science?
+
+(drawing):Working as a digital marketer and making conclusions through analytics, you may develop a fascination with data and numbers.
+ And once you have grip about data, learning path becomes much easier.
+
+(write):I hope this will make sense and help you to understand how they are related to each other.
+Don't forget to like, coment and subscribe.
+
+
+
+
+
+

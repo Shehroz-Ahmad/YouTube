@@ -13,8 +13,8 @@ first we need to talk about what is digital marketing and data science?
 
 (drawing):Suppose you have developed a product and you want to sell it Now the first question arises in your mind.how can i promote my product digitally
 
-(drawing):In the past people use different method for advertising like showing an Ad in newspaper or displaying sign boards Now technology changes and 
-the way of marketing also developed.Now people use Internet for marketing their product 
+(drawing):In the past people were using different method for advertising like showing an Ad in newspaper or displaying sign boards Now technology changes and 
+the way of marketing also developed.Now people use Internet for marketing their products 
 (drawing):Their are multiple ways to promote your product but the most easiest one is social media marketing..
 (voice): If you want to know what is social media marketing then write in coment section.I will discuss it 
 in next video 
@@ -31,7 +31,7 @@ in next video
 (drawing):Time, patience and experimentation is the key to successful digital marketing campaigns. Any Digital Marketer would tell you that creating best content for your 
 business or ranking on the top of search engine results are their top priority.
 (write):How this is related to data science?
-(drawing):And as you can guess, all these attributes are required to become a good Data Scientist. Processing Data. Experimenting with algorithms to create a model.
+(drawing):And as you can guess, all these attributes are required to become a good Data Scientist as  acquiring data ,Processing Data , Experimenting with algorithms to create a model, 
  Deploying models and testing them repeatedly.
 (write):So Time is the key to both marketing and data science.
 
